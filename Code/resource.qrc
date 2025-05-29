@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>ss.jpg</file>
+        <file>wallpaper2you_364334.jpg</file>
+        <file>JJJ.jpg</file>
+        <file>logipage.jpg</file>
+    </qresource>
+</RCC>
