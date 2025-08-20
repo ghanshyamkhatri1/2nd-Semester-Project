@@ -1,1 +1,2 @@
-This is our end-semester project for the second semester. We have developed this project using the Qt framework with C++ and SQLite as the database.
+# Faculty Management System
+This project is developed as part of our **second semester end-semester project**, using the Qt Framework with C++ and SQLite. It is a Faculty Management System that supports adding, updating, and deleting faculty records, managing routines, and allowing faculty to take student attendance through a simple and user-friendly interface. All data is securely stored in SQLite.
